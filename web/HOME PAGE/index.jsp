@@ -79,9 +79,7 @@
         <ul class="navbar__list">
             <li><a href="index.jsp">FEATURED PRODUCTS</a></li>
             <li><a href="categories.jsp">CATEGORIES</a></li>
-            <li><a href="plataforms.jsp">PLATFORMS</a></li>
-            <li><a href="">FREE TO PLAY</a></li>
-            <li><a href="">GIVEAWAYS</a></li>
+            <li><a href="plataforms.jsp">PLATAFORMS</a></li>
         </ul>
         <!-- <ul class="navbar__list__items">
             <li>
