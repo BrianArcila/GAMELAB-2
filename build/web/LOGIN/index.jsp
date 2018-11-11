@@ -21,6 +21,7 @@
 </head>
 
 <body>
+    <!--CAMBIEMOS EL LOGIN-->
     <section class="container-image">
         <div class="background-image">
             <img src="img/img3.jpg" alt="">
