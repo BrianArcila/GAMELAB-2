@@ -1,0 +1,117 @@
+/* --rojo: #e84c3d;
+--negro1: #292929;
+--negro2: #2f2f2f;
+--gris: #e4e4e4;
+--blanco: #f9f9f9; */
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.background-image img{
+   width: 100%;
+   height: 100vh;
+}
+
+
+.container-principal{
+    width: 80%;
+    height: 80%;
+    background-color: rgba(41, 40, 40, 0.466);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 5px;
+}
+
+.container-form-signin{
+    width: 50%;
+    height: 80%;
+    position: relative;
+    left: 20px;
+    top: 60px;
+}
+
+.hr1{
+    background-color:white;
+    width: 75%;
+}
+
+.container-logo{
+    width: 50%;
+    height: 100%;
+    position: absolute;
+    background-color: #e4e4e44f;
+    right: 0px;
+    top: 0px;
+    transition: 300ms;
+}
+
+.image-logo img{
+    width: 40%;
+    display: block;
+    margin: 0 auto;
+    margin-top: 30%;
+}
+
+.h2{
+    color: black;   
+}
+
+/* ESCONDER LOGIN */
+
+/* .container-form-signin{
+    display: none;
+}
+
+.container-logo{
+    display: none;
+} */
+
+
+/* SIGN UP 2 */
+
+.container-form-signup{
+    width: 50%;
+    height: 80%;
+    position: absolute;
+    right: 20px;
+    top: 60px;
+}
+
+.form-control{
+    background-color: #e4e4e44f;
+    border: 1px solid black;
+    color:white;
+}
+
+.form-control:focus{
+    background-color: #e4e4e44f;
+    border: 1px solid black; 
+    box-shadow: none;
+}
+
+/* ESCONDER SING UP 2 */
+.container-form-signup{
+    display: none;
+}
+
+.hiddenForm{
+    display: none!important;
+}
+
+.showForm{
+    display: block!important;
+}
+
+.moveleft{
+    transform: translateX(-100%);
+}
+
+.moveright{
+    right: 0px;
+}
+
+
