@@ -26,7 +26,7 @@
             <button class="header__section1__button" id="btnmenu"><i class="fas fa-bars"></i></button>
             <div class="header__section1__bg__responsive" id="bgmenu"></div>
             <img src="./img/Logo-3.png" class="header__section1__img" alt="logo">
-            <ul class="header__section1__list">
+    <!--        <ul class="header__section1__list">
                 <li>
                     <a href="">
                 <li>
@@ -53,7 +53,7 @@
                     </li>
                 </a>
             </ul>
-        </div>
+        </div>-->
         <div class="header__section2">
             <ul class="header__section2__list">
                 <li>
