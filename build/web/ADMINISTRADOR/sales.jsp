@@ -20,6 +20,7 @@
     </head>
     
     <body>
+        <!--AGREGAR EL PRELOADER-->
         <!-- HEADER -->
         <header class="container-header">
             <section class="container-header-logo">
