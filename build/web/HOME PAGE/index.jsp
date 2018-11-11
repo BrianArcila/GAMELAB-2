@@ -151,7 +151,7 @@
             </div>
             <input type="text" class="form-control" placeholder="Search game" aria-label="Username" aria-describedby="basic-addon1">
         </div>
-        <p>Most popular: <span>Grand Theft Auto V | Star Conflict | Test Drive: Ferrari Racing Legends | Path of Exile</span></p>
+        <p>Most popular: <span>Grand Theft Auto IV | Gears of War | God Of War 2 | Path of Exile</span></p>
     </div>
     <!-- GAMES -->
     <section class="games">
